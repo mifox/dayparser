@@ -1,0 +1,1 @@
+dayparser.exe 1m D:\new_tdx\vipdoc\ds\minline\74#WLL.lc1 >WLL.csv
